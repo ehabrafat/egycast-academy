@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bRXTB1NDY34RHh5qL+sNS5a0y4p++ys2SOK8ZVcnmao=",
+  "Source": "EgycastApi",
+  "BasePath": "_content/EgycastApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
